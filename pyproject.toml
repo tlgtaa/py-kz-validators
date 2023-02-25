@@ -1,7 +1,13 @@
 [project]
-name = "kz-py-validators"
+name = "py-kz-validators"
 version = "0.0.1"
+authors = [
+  { name="Talgat Abdraimov", email="abdraimov.talga@gmail.com" },
+]
+description = A collection of Python validators for various Kazakhstani identification numbers, such as the Individual Identification Number (IIN) and Taxpayer Identification Number (TIN)
+readme = README.md
 requires-python = ">=3.10"
+licence = {file = "LICENSE"}
 dependencies = []
 
 [project.optional-dependencies]
@@ -19,6 +25,10 @@ dev = [
   "flake8-commas",
   "flake8-quotes",
 ]
+
+[project.urls]
+homepage = "https://github.com/tlgtaa/py-kz-validators"
+repository = "https://github.com/tlgtaa/py-kz-validators.git"
 
 [tool.black]
 line-length=120

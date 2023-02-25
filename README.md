@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+[![Python 3.10](<https://img.shields.io/github/pipenv/locked/python-version/tlgtaa/py-kz-validators/main?color=green&style=plastic>)
+
 **A collection of Python validators for various Kazakhstani identification numbers, such as the Individual Identification Number (IIN) and Taxpayer Identification Number (TIN)**
 
 ## Installation
