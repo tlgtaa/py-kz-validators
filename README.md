@@ -33,7 +33,7 @@ This code will output "IIN is valid" since the IIN `"791028302728"` is a valid K
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions or issues, please open an issue or pull request on the [GitHub repository]().
+Contributions are welcome! If you have any suggestions or issues, please open an issue or pull request on the [GitHub repository](https://github.com/tlgtaa/py-kz-validators).
 
 ## License
 
