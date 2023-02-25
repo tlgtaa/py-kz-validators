@@ -29,11 +29,19 @@ else:
 
 ```
 
-This code will output "IIN is valid" since the IIN `"791028302728"` is a valid Kazakhstani Individual Identification Number.
+This code will output `IIN is valid` since the IIN `791028302728` is a valid Kazakhstani Individual Identification Number
 
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or issues, please open an issue or pull request on the [GitHub repository](https://github.com/tlgtaa/py-kz-validators).
+
+**Local Installation for Contributors**
+
+```bash
+  make deps
+```
+
+**After making any changes, don't forget to run flake8(`make lint`) and tests(`make test`).**
 
 ## License
 

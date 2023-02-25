@@ -6,6 +6,8 @@ dependencies = []
 
 [project.optional-dependencies]
 dev = [
+  "black",
+
   "pytest",
   "pytest-cov",
 
