@@ -1,15 +1,14 @@
 # Kazakhstani Validators Package
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
-[![Python 3.10](<https://img.shields.io/github/pipenv/locked/python-version/tlgtaa/py-kz-validators/main?color=green&style=plastic>)
+![code size](<https://img.shields.io/github/languages/code-size/tlgtaa/py-kz-validators?color=green>)
 
 **A collection of Python validators for various Kazakhstani identification numbers, such as the Individual Identification Number (IIN) and Taxpayer Identification Number (TIN)**
 
 ## Installation
 
 ```bash
-pip install kz-validators
+pip install py-kz-validators
 ```
 
 ## Usage
@@ -40,7 +39,7 @@ Contributions are welcome! If you have any suggestions or issues, please open an
 **Local Installation for Contributors**
 
 ```bash
-  make deps
+  make dev-deps
 ```
 
 **After making any changes, don't forget to run flake8(`make lint`) and tests(`make test`).**
